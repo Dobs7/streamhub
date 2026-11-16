@@ -1,0 +1,12 @@
+import type {Title} from './types';
+const img=(p:string)=>'https://image.tmdb.org/t/p/'+p;
+export const demoTitles:Title[]=[
+ {id:603,type:'movie',title:'Matrix',originalTitle:'The Matrix',year:'1999',overview:'Um hacker descobre que a realidade em que vive é uma simulação controlada por máquinas. Ao se juntar a um grupo de rebeldes, ele precisa escolher entre a ilusão e a liberdade.',poster:img('w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg'),backdrop:img('original/fNG7i7RqMErkcqhohV2a6cV1Ehy.jpg'),rating:0,genres:['Ação','Ficção científica'],runtime:136,director:'Lana Wachowski, Lilly Wachowski',tagline:'A realidade é apenas o começo.'},
+ {id:27205,type:'movie',title:'A Origem',year:'2010',overview:'Um especialista em extrair segredos dos sonhos recebe uma missão que pode mudar sua vida.',poster:img('w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg'),backdrop:img('w780/s3TBrRGB1iav7gFOCNx3H31MoES.jpg'),rating:0,genres:['Ficção científica','Suspense']},
+ {id:335984,type:'movie',title:'Blade Runner 2049',year:'2017',overview:'Um novo blade runner descobre um segredo que o leva à procura de Rick Deckard.',poster:img('w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg'),backdrop:null,rating:0,genres:['Ficção científica','Drama']},
+ {id:157336,type:'movie',title:'Interestelar',year:'2014',overview:'Uma equipe de exploradores atravessa um buraco de minhoca em busca de um futuro para a humanidade.',poster:img('w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg'),backdrop:img('w780/pbrkL804c8yAv3zBZR4QPEafpAR.jpg'),rating:0,genres:['Aventura','Ficção científica']},
+ {id:693134,type:'movie',title:'Duna: Parte Dois',year:'2024',overview:'Paul Atreides se une aos Fremen e enfrenta as consequências de seu destino.',poster:img('w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg'),backdrop:null,rating:0,genres:['Ficção científica','Aventura']},
+ {id:129,type:'movie',title:'A Viagem de Chihiro',year:'2001',overview:'Uma menina entra em um mundo de espíritos e precisa encontrar um caminho de volta.',poster:img('w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg'),backdrop:null,rating:0,genres:['Animação','Fantasia']},
+ {id:680,type:'movie',title:'Pulp Fiction',year:'1994',overview:'Histórias de crime se cruzam em Los Angeles.',poster:img('w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg'),backdrop:null,rating:0,genres:['Crime','Drama']},
+ {id:120,type:'movie',title:'O Senhor dos Anéis: A Sociedade do Anel',year:'2001',overview:'Um hobbit parte em uma jornada para destruir um poderoso anel.',poster:img('w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg'),backdrop:null,rating:0,genres:['Fantasia','Aventura']}
+];

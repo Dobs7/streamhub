@@ -1,0 +1,228 @@
+[
+  {
+    "id": 10000002266,
+    "name": "Quentin Tarantino",
+    "photo": "https://images.justwatch.com/portrait/330460296/s332/image.avif"
+  },
+  {
+    "id": 10000001641,
+    "name": "Leonardo DiCaprio",
+    "photo": "https://images.justwatch.com/portrait/327266849/s332/image.avif"
+  },
+  {
+    "id": 10000002929,
+    "name": "Brad Pitt",
+    "photo": "https://images.justwatch.com/portrait/327186883/s332/image.avif"
+  },
+  {
+    "id": 10000001725,
+    "name": "Christopher Nolan",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/ChristopherNolan-byPhilipRomano_%28cropped%29.jpg/330px-ChristopherNolan-byPhilipRomano_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "https://en.wikipedia.org/wiki/Christopher_Nolan"
+  },
+  {
+    "id": 10000003308,
+    "name": "Martin Scorsese",
+    "photo": "https://images.justwatch.com/portrait/335824699/s332/image.avif"
+  },
+  {
+    "id": 10000003669,
+    "name": "Denis Villeneuve",
+    "photo": "https://images.justwatch.com/portrait/335899916/s332/image.avif"
+  },
+  {
+    "id": 10000004696,
+    "name": "Will Smith",
+    "photo": "https://images.justwatch.com/portrait/327676976/s332/image.avif"
+  },
+  {
+    "id": 10000003036,
+    "name": "Keanu Reeves",
+    "photo": "https://images.justwatch.com/portrait/327267244/s332/image.avif"
+  },
+  {
+    "id": 10000003776,
+    "name": "Denzel Washington",
+    "photo": "https://images.justwatch.com/portrait/327266046/s332/image.avif"
+  },
+  {
+    "id": 10000002718,
+    "name": "Tom Hanks",
+    "photo": "https://images.justwatch.com/portrait/327228898/s332/image.avif"
+  },
+  {
+    "id": 10000000198,
+    "name": "Morgan Freeman",
+    "photo": "https://images.justwatch.com/portrait/328533155/s332/image.avif"
+  },
+  {
+    "id": 10000003748,
+    "name": "Robert De Niro",
+    "photo": "https://images.justwatch.com/portrait/327264286/s332/image.avif"
+  },
+  {
+    "id": 10000009198,
+    "name": "Al Pacino",
+    "photo": "https://images.justwatch.com/portrait/327186574/s332/image.avif"
+  },
+  {
+    "id": 10000001852,
+    "name": "Samuel L. Jackson",
+    "photo": "https://images.justwatch.com/portrait/328138410/s332/image.avif"
+  },
+  {
+    "id": 10000004567,
+    "name": "Christian Bale",
+    "photo": "https://images.justwatch.com/portrait/327265800/s332/image.avif"
+  },
+  {
+    "id": 10000006449,
+    "name": "Joaquin Phoenix",
+    "photo": "https://images.justwatch.com/portrait/330224683/s332/image.avif"
+  },
+  {
+    "id": 10000003012,
+    "name": "Cillian Murphy",
+    "photo": "https://images.justwatch.com/portrait/327899586/s332/image.avif"
+  },
+  {
+    "id": 10000003535,
+    "name": "Tom Cruise",
+    "photo": "https://images.justwatch.com/portrait/326907703/s332/image.avif"
+  },
+  {
+    "id": 10000001698,
+    "name": "Matt Damon",
+    "photo": "https://images.justwatch.com/portrait/327307540/s332/image.avif"
+  },
+  {
+    "id": 10000007061,
+    "name": "Ryan Gosling",
+    "photo": "https://images.justwatch.com/portrait/327263896/s332/image.avif"
+  },
+  {
+    "id": 10000004613,
+    "name": "Willem Dafoe",
+    "photo": "https://images.justwatch.com/portrait/327676889/s332/image.avif"
+  },
+  {
+    "id": 10000001576,
+    "name": "Anthony Hopkins",
+    "photo": "https://images.justwatch.com/portrait/327265487/s332/image.avif"
+  },
+  {
+    "id": 10000006716,
+    "name": "Meryl Streep",
+    "photo": "https://images.justwatch.com/portrait/329005661/s332/image.avif"
+  },
+  {
+    "id": 10000007871,
+    "name": "Viola Davis",
+    "photo": "https://images.justwatch.com/portrait/327677114/s332/image.avif"
+  },
+  {
+    "id": 10000002859,
+    "name": "Cate Blanchett",
+    "photo": "https://images.justwatch.com/portrait/327265737/s332/image.avif"
+  },
+  {
+    "id": 10000000731,
+    "name": "Natalie Portman",
+    "photo": "https://images.justwatch.com/portrait/329799792/s332/image.avif"
+  },
+  {
+    "id": 10000001678,
+    "name": "Scarlett Johansson",
+    "photo": "https://images.justwatch.com/portrait/328137405/s332/image.avif"
+  },
+  {
+    "id": 10000002541,
+    "name": "Emma Stone",
+    "photo": "https://images.justwatch.com/portrait/327266254/s332/image.avif"
+  },
+  {
+    "id": 10000004074,
+    "name": "Margot Robbie",
+    "photo": "https://images.justwatch.com/portrait/327228200/s332/image.avif"
+  },
+  {
+    "id": 10000001693,
+    "name": "Jessica Chastain",
+    "photo": "https://images.justwatch.com/portrait/330224885/s332/image.avif"
+  },
+  {
+    "id": 10000001692,
+    "name": "Anne Hathaway",
+    "photo": "https://images.justwatch.com/portrait/327485855/s332/image.avif"
+  },
+  {
+    "id": 10000052975,
+    "name": "Fernanda Montenegro",
+    "photo": "https://images.justwatch.com/portrait/345518299/s332/image.avif"
+  },
+  {
+    "id": 10001509150,
+    "name": "Fernanda Torres",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Fernanda_Torres_at_82nd_Venice_International_Film_Festival-7_%28cropped%29.jpg/330px-Fernanda_Torres_at_82nd_Venice_International_Film_Festival-7_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "https://en.wikipedia.org/wiki/Fernanda_Torres"
+  },
+  {
+    "id": 10000028090,
+    "name": "Wagner Moura",
+    "photo": "https://images.justwatch.com/portrait/327677056/s332/image.avif"
+  },
+  {
+    "id": 10000028091,
+    "name": "Selton Mello",
+    "photo": "https://images.justwatch.com/portrait/329596217/s332/image.avif"
+  },
+  {
+    "id": 10000002779,
+    "name": "Steven Spielberg",
+    "photo": "https://images.justwatch.com/portrait/328500087/s332/image.avif"
+  },
+  {
+    "id": 10000003156,
+    "name": "James Cameron",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/James_Cameron_at_53rd_Saturn_Awards_2026-01_%28cropped%29.jpg/330px-James_Cameron_at_53rd_Saturn_Awards_2026-01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "https://en.wikipedia.org/wiki/James_Cameron"
+  },
+  {
+    "id": 10000002964,
+    "name": "David Fincher",
+    "photo": "https://images.justwatch.com/portrait/345829060/s332/image.avif"
+  },
+  {
+    "id": 10000004591,
+    "name": "Ridley Scott",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Ridley_Scott_At_BFI_-_BFI_Southbank_-_Saturday_4th_October_2025.jpg/330px-Ridley_Scott_At_BFI_-_BFI_Southbank_-_Saturday_4th_October_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "https://en.wikipedia.org/wiki/Ridley_Scott"
+  },
+  {
+    "id": 10000009771,
+    "name": "Greta Gerwig",
+    "photo": "https://images.justwatch.com/portrait/335900664/s332/image.avif"
+  },
+  {
+    "id": 10000004921,
+    "name": "Sofia Coppola",
+    "photo": "https://images.justwatch.com/portrait/345772032/s332/image.avif"
+  },
+  {
+    "id": 10000947443,
+    "name": "Bong Joon-ho",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Bong_Joon_Ho_at_Busan_Film_Festival%2C_smaller.jpg/330px-Bong_Joon_Ho_at_Busan_Film_Festival%2C_smaller.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "https://en.wikipedia.org/wiki/Bong_Joon_Ho"
+  },
+  {
+    "id": 10000004239,
+    "name": "Alfonso Cuarón",
+    "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/DisclaimerBFILFF101024_%2888_of_113%29_%2854062275143%29_%28cropped%29.jpg/330px-DisclaimerBFILFF101024_%2888_of_113%29_%2854062275143%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "photoSource": "https://en.wikipedia.org/wiki/Alfonso_Cuar%C3%B3n"
+  },
+  {
+    "id": 10000008024,
+    "name": "Guillermo del Toro",
+    "photo": "https://images.justwatch.com/portrait/331957409/s332/image.avif"
+  }
+]

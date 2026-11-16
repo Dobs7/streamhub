@@ -1,0 +1,497 @@
+{
+  "data": {
+    "popularTitles": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "endCursor": "MQ=="
+      },
+      "edges": [
+        {
+          "node": {
+            "__typename": "Movie",
+            "id": "tm10",
+            "objectId": 10,
+            "objectType": "MOVIE",
+            "content": {
+              "title": "Matrix",
+              "originalTitle": "The Matrix",
+              "shortDescription": "Thomas Anderson é um jovem programador que, fora das horas de serviço, dá pelo nome de Neo, um «hacker».  Ele sempre percebeu que algo no mundo não estava bem. A esperança de encontrar as respostas que procura leva-o a seguir o «coelho branco». E depois, a vida dele nunca mais será a mesma.",
+              "originalReleaseYear": 1999,
+              "fullPath": "/br/filme/matrix",
+              "runtime": 136,
+              "ageCertification": "12",
+              "posterUrl": "/poster/8668157/s592/matrix.{format}",
+              "backdrops": [
+                {
+                  "backdropUrl": "/backdrop/8668185/s1440/matrix.{format}"
+                },
+                {
+                  "backdropUrl": "/backdrop/8668179/s1440/matrix.{format}"
+                },
+                {
+                  "backdropUrl": "/backdrop/275196679/s1440/matrix.{format}"
+                },
+                {
+                  "backdropUrl": "/backdrop/65234088/s1440/matrix.{format}"
+                },
+                {
+                  "backdropUrl": "/backdrop/8668182/s1440/matrix.{format}"
+                }
+              ],
+              "genres": [
+                {
+                  "shortName": "act"
+                },
+                {
+                  "shortName": "scf"
+                }
+              ],
+              "scoring": {
+                "imdbScore": 8.7,
+                "imdbVotes": 2292989,
+                "tmdbScore": 8.263
+              },
+              "externalIds": {
+                "imdbId": "tt0133093",
+                "tmdbId": "603"
+              },
+              "credits": [
+                {
+                  "name": "Keanu Reeves",
+                  "role": "ACTOR",
+                  "personId": 3036
+                },
+                {
+                  "name": "Laurence Fishburne",
+                  "role": "ACTOR",
+                  "personId": 5834
+                },
+                {
+                  "name": "Carrie-Anne Moss",
+                  "role": "ACTOR",
+                  "personId": 8128
+                },
+                {
+                  "name": "Hugo Weaving",
+                  "role": "ACTOR",
+                  "personId": 2858
+                },
+                {
+                  "name": "Gloria Foster",
+                  "role": "ACTOR",
+                  "personId": 87119
+                },
+                {
+                  "name": "Joe Pantoliano",
+                  "role": "ACTOR",
+                  "personId": 8129
+                },
+                {
+                  "name": "Marcus Chong",
+                  "role": "ACTOR",
+                  "personId": 87121
+                },
+                {
+                  "name": "Julian Arahanga",
+                  "role": "ACTOR",
+                  "personId": 87122
+                },
+                {
+                  "name": "Matt Doran",
+                  "role": "ACTOR",
+                  "personId": 10714
+                },
+                {
+                  "name": "Belinda McClory",
+                  "role": "ACTOR",
+                  "personId": 75522
+                },
+                {
+                  "name": "Anthony Ray Parker",
+                  "role": "ACTOR",
+                  "personId": 26158
+                },
+                {
+                  "name": "Paul Goddard",
+                  "role": "ACTOR",
+                  "personId": 81643
+                },
+                {
+                  "name": "Robert Taylor",
+                  "role": "ACTOR",
+                  "personId": 589387
+                },
+                {
+                  "name": "David Aston",
+                  "role": "ACTOR",
+                  "personId": 3267
+                },
+                {
+                  "name": "Marc Aden Gray",
+                  "role": "ACTOR",
+                  "personId": 87131
+                },
+                {
+                  "name": "Ada Nicodemou",
+                  "role": "ACTOR",
+                  "personId": 87132
+                },
+                {
+                  "name": "Deni Gordon",
+                  "role": "ACTOR",
+                  "personId": 87135
+                },
+                {
+                  "name": "Rowan Witt",
+                  "role": "ACTOR",
+                  "personId": 87136
+                },
+                {
+                  "name": "Eleanor Witt",
+                  "role": "ACTOR",
+                  "personId": 87138
+                },
+                {
+                  "name": "Tamara Brown",
+                  "role": "ACTOR",
+                  "personId": 87139
+                },
+                {
+                  "name": "Janaya Pender",
+                  "role": "ACTOR",
+                  "personId": 87140
+                },
+                {
+                  "name": "Adryn White",
+                  "role": "ACTOR",
+                  "personId": 87141
+                },
+                {
+                  "name": "Natalie Tjen",
+                  "role": "ACTOR",
+                  "personId": 87143
+                },
+                {
+                  "name": "Bill Young",
+                  "role": "ACTOR",
+                  "personId": 87137
+                },
+                {
+                  "name": "David O'Connor",
+                  "role": "ACTOR",
+                  "personId": 87144
+                },
+                {
+                  "name": "Jeremy Ball",
+                  "role": "ACTOR",
+                  "personId": 87147
+                },
+                {
+                  "name": "Fiona Johnson",
+                  "role": "ACTOR",
+                  "personId": 87148
+                },
+                {
+                  "name": "Harry Lawrence",
+                  "role": "ACTOR",
+                  "personId": 87150
+                },
+                {
+                  "name": "Steve Dodd",
+                  "role": "ACTOR",
+                  "personId": 87151
+                },
+                {
+                  "name": "Luke Quinton",
+                  "role": "ACTOR",
+                  "personId": 87153
+                },
+                {
+                  "name": "Lawrence Woodward",
+                  "role": "ACTOR",
+                  "personId": 87155
+                },
+                {
+                  "name": "Michael Butcher",
+                  "role": "ACTOR",
+                  "personId": 87158
+                },
+                {
+                  "name": "Bernard Ledger",
+                  "role": "ACTOR",
+                  "personId": 87159
+                },
+                {
+                  "name": "Chris Pattinson",
+                  "role": "ACTOR",
+                  "personId": 87161
+                },
+                {
+                  "name": "Robert Simper",
+                  "role": "ACTOR",
+                  "personId": 87160
+                },
+                {
+                  "name": "Nigel Harbach",
+                  "role": "ACTOR",
+                  "personId": 87162
+                },
+                {
+                  "name": "Nash Edgerton",
+                  "role": "ACTOR",
+                  "personId": 744
+                },
+                {
+                  "name": "Lana Wachowski",
+                  "role": "DIRECTOR",
+                  "personId": 5216
+                },
+                {
+                  "name": "Lilly Wachowski",
+                  "role": "DIRECTOR",
+                  "personId": 5215
+                }
+              ]
+            },
+            "offers": [
+              {
+                "standardWebURL": "https://play.hbomax.com/show/012cacbd-5893-4379-b7a6-d3737c61d4b5?utm_source=universal_search",
+                "monetizationType": "FLATRATE",
+                "presentationType": "SD",
+                "retailPrice": null,
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8MTg5OQ==",
+                  "clearName": "HBO Max",
+                  "shortName": "mxx",
+                  "icon": "/icon/332884837/s100/max.{format}"
+                }
+              },
+              {
+                "standardWebURL": "https://play.hbomax.com/show/012cacbd-5893-4379-b7a6-d3737c61d4b5?utm_source=universal_search",
+                "monetizationType": "FLATRATE",
+                "presentationType": "HD",
+                "retailPrice": null,
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8MTg5OQ==",
+                  "clearName": "HBO Max",
+                  "shortName": "mxx",
+                  "icon": "/icon/332884837/s100/max.{format}"
+                }
+              },
+              {
+                "standardWebURL": "https://play.hbomax.com/show/012cacbd-5893-4379-b7a6-d3737c61d4b5?utm_source=universal_search",
+                "monetizationType": "FLATRATE",
+                "presentationType": "_4K",
+                "retailPrice": null,
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8MTg5OQ==",
+                  "clearName": "HBO Max",
+                  "shortName": "mxx",
+                  "icon": "/icon/332884837/s100/max.{format}"
+                }
+              },
+              {
+                "standardWebURL": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dea9f6b7-e0a0-38c9-7467-d6079c6fb4f0",
+                "monetizationType": "FLATRATE",
+                "presentationType": "SD",
+                "retailPrice": null,
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8MTgyNQ==",
+                  "clearName": "HBO Max Amazon Channel",
+                  "shortName": "aho",
+                  "icon": "/icon/343788557/s100/amazonhbomax.{format}"
+                }
+              },
+              {
+                "standardWebURL": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dea9f6b7-e0a0-38c9-7467-d6079c6fb4f0",
+                "monetizationType": "FLATRATE",
+                "presentationType": "HD",
+                "retailPrice": null,
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8MTgyNQ==",
+                  "clearName": "HBO Max Amazon Channel",
+                  "shortName": "aho",
+                  "icon": "/icon/343788557/s100/amazonhbomax.{format}"
+                }
+              },
+              {
+                "standardWebURL": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dea9f6b7-e0a0-38c9-7467-d6079c6fb4f0",
+                "monetizationType": "FLATRATE",
+                "presentationType": "_4K",
+                "retailPrice": null,
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8MTgyNQ==",
+                  "clearName": "HBO Max Amazon Channel",
+                  "shortName": "aho",
+                  "icon": "/icon/343788557/s100/amazonhbomax.{format}"
+                }
+              },
+              {
+                "standardWebURL": "https://tv.apple.com/br/movie/matrix/umc.cmc.af8k9kcq9r1s1qmmdxpq4itn?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A271469518",
+                "monetizationType": "RENT",
+                "presentationType": "HD",
+                "retailPrice": "11,90 R$",
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8Mg==",
+                  "clearName": "Apple TV Store",
+                  "shortName": "itu",
+                  "icon": "/icon/338253243/s100/itunes.{format}"
+                }
+              },
+              {
+                "standardWebURL": "https://tv.apple.com/br/movie/matrix/umc.cmc.af8k9kcq9r1s1qmmdxpq4itn?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A271469518",
+                "monetizationType": "RENT",
+                "presentationType": "SD",
+                "retailPrice": "11,90 R$",
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8Mg==",
+                  "clearName": "Apple TV Store",
+                  "shortName": "itu",
+                  "icon": "/icon/338253243/s100/itunes.{format}"
+                }
+              },
+              {
+                "standardWebURL": "https://tv.apple.com/br/movie/matrix/umc.cmc.af8k9kcq9r1s1qmmdxpq4itn?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A271469518",
+                "monetizationType": "RENT",
+                "presentationType": "_4K",
+                "retailPrice": "11,90 R$",
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8Mg==",
+                  "clearName": "Apple TV Store",
+                  "shortName": "itu",
+                  "icon": "/icon/338253243/s100/itunes.{format}"
+                }
+              },
+              {
+                "standardWebURL": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dea9f6b7-e0a0-38c9-7467-d6079c6fb4f0",
+                "monetizationType": "RENT",
+                "presentationType": "SD",
+                "retailPrice": "11,90 R$",
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8MTA=",
+                  "clearName": "Amazon Video",
+                  "shortName": "amz",
+                  "icon": "/icon/340823436/s100/amazon.{format}"
+                }
+              },
+              {
+                "standardWebURL": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dea9f6b7-e0a0-38c9-7467-d6079c6fb4f0",
+                "monetizationType": "RENT",
+                "presentationType": "HD",
+                "retailPrice": "11,90 R$",
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8MTA=",
+                  "clearName": "Amazon Video",
+                  "shortName": "amz",
+                  "icon": "/icon/340823436/s100/amazon.{format}"
+                }
+              },
+              {
+                "standardWebURL": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dea9f6b7-e0a0-38c9-7467-d6079c6fb4f0",
+                "monetizationType": "RENT",
+                "presentationType": "_4K",
+                "retailPrice": "11,90 R$",
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8MTA=",
+                  "clearName": "Amazon Video",
+                  "shortName": "amz",
+                  "icon": "/icon/340823436/s100/amazon.{format}"
+                }
+              },
+              {
+                "standardWebURL": "https://tv.apple.com/br/movie/matrix/umc.cmc.af8k9kcq9r1s1qmmdxpq4itn?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A271469518",
+                "monetizationType": "BUY",
+                "presentationType": "SD",
+                "retailPrice": "19,90 R$",
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8Mg==",
+                  "clearName": "Apple TV Store",
+                  "shortName": "itu",
+                  "icon": "/icon/338253243/s100/itunes.{format}"
+                }
+              },
+              {
+                "standardWebURL": "https://tv.apple.com/br/movie/matrix/umc.cmc.af8k9kcq9r1s1qmmdxpq4itn?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A271469518",
+                "monetizationType": "BUY",
+                "presentationType": "HD",
+                "retailPrice": "19,90 R$",
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8Mg==",
+                  "clearName": "Apple TV Store",
+                  "shortName": "itu",
+                  "icon": "/icon/338253243/s100/itunes.{format}"
+                }
+              },
+              {
+                "standardWebURL": "https://tv.apple.com/br/movie/matrix/umc.cmc.af8k9kcq9r1s1qmmdxpq4itn?at=1000l3V2&ct=app_tv&itscg=30200&itsct=justwatch_tv&playableId=tvs.sbd.9001%3A271469518",
+                "monetizationType": "BUY",
+                "presentationType": "_4K",
+                "retailPrice": "19,90 R$",
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8Mg==",
+                  "clearName": "Apple TV Store",
+                  "shortName": "itu",
+                  "icon": "/icon/338253243/s100/itunes.{format}"
+                }
+              },
+              {
+                "standardWebURL": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dea9f6b7-e0a0-38c9-7467-d6079c6fb4f0",
+                "monetizationType": "BUY",
+                "presentationType": "SD",
+                "retailPrice": "19,90 R$",
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8MTA=",
+                  "clearName": "Amazon Video",
+                  "shortName": "amz",
+                  "icon": "/icon/340823436/s100/amazon.{format}"
+                }
+              },
+              {
+                "standardWebURL": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dea9f6b7-e0a0-38c9-7467-d6079c6fb4f0",
+                "monetizationType": "BUY",
+                "presentationType": "HD",
+                "retailPrice": "19,90 R$",
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8MTA=",
+                  "clearName": "Amazon Video",
+                  "shortName": "amz",
+                  "icon": "/icon/340823436/s100/amazon.{format}"
+                }
+              },
+              {
+                "standardWebURL": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dea9f6b7-e0a0-38c9-7467-d6079c6fb4f0",
+                "monetizationType": "BUY",
+                "presentationType": "_4K",
+                "retailPrice": "19,90 R$",
+                "currency": "BRL",
+                "package": {
+                  "id": "cGF8MTA=",
+                  "clearName": "Amazon Video",
+                  "shortName": "amz",
+                  "icon": "/icon/340823436/s100/amazon.{format}"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

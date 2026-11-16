@@ -1,0 +1,29 @@
+node_modules/
+dist/
+build/
+out/
+release/
+release-*/
+*.exe
+*.msi
+*.zip
+*.7z
+*.log
+.env*
+!.env.example
+*.pfx
+*.p12
+*.pem
+*tokens.bin
+*config.bin
+flow-data.json
+Cookies
+Login Data
+History
+Local Storage/
+Session Storage/
+
+.vite/
+.superpowers/
+output/
+docs/qa*/

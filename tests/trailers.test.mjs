@@ -1,0 +1,6 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {parseTrailers,createTrailerSearch} from '../core/trailers.mjs';
+const html=videos=>'var ytInitialData = '+JSON.stringify({contents:videos.map(([videoId,text])=>({videoRenderer:{videoId,title:{runs:[{text}]}}}))})+';</script>';
+test('trailer corresponde ao título, não aceita reação, identificador inválido ou outro filme',()=>{const r=parseTrailers(html([['abcdefghijk','Homem-Aranha Um Novo Dia | Trailer Oficial Dublado'],['zzzzzzzzzzz','Homem-Aranha Um Novo Dia | Reação Trailer'],['xxxxxxxxxxx','Outro Filme Trailer'],['../bad','Homem-Aranha Um Novo Dia Trailer']]),'Homem-Aranha: Um Novo Dia');assert.equal(r.length,1);assert.equal(r[0].key,'abcdefghijk');assert.equal(r[0].source,'Ingresso.com');});
+test('busca usa somente canal fixo e reaproveita cache; erro não vira trailer fictício',async()=>{let calls=0;const c=createTrailerSearch({fetchImpl:async u=>{calls++;assert.ok(u.startsWith('https://www.youtube.com/@ingresso-com/search?query='));return {ok:true,text:async()=>html([['abcdefghijk','Matrix Trailer Oficial']])};}});assert.equal((await c('Matrix')).length,1);await c('Matrix');assert.equal(calls,1);await assert.rejects(c(''),/inválido/);assert.throws(()=>parseTrailers('broken','Matrix'),/formato/);});

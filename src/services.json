@@ -1,0 +1,672 @@
+[
+  {
+    "name": "Netflix",
+    "key": "nfx",
+    "logo": "https://images.justwatch.com/icon/207360008/s100/netflix.jpg"
+  },
+  {
+    "name": "Amazon Prime Video",
+    "key": "prv",
+    "logo": "https://images.justwatch.com/icon/322992749/s100/amazonprimevideo.jpg"
+  },
+  {
+    "name": "Apple TV",
+    "key": "atp",
+    "logo": "https://images.justwatch.com/icon/338367329/s100/appletvplus.jpg"
+  },
+  {
+    "name": "Disney Plus",
+    "key": "dnp",
+    "logo": "https://images.justwatch.com/icon/313118777/s100/disneyplus.jpg"
+  },
+  {
+    "name": "JustWatch TV Beta",
+    "key": "jfb",
+    "logo": "https://images.justwatch.com/icon/356351546/s100/justwatchtvbeta.jpg"
+  },
+  {
+    "name": "Looke",
+    "key": "lke",
+    "logo": "https://images.justwatch.com/icon/755940/s100/looke.jpg"
+  },
+  {
+    "name": "MLS on Apple TV",
+    "key": "mls",
+    "logo": "https://images.justwatch.com/icon/341906804/s100/mlsseasonpass.jpg"
+  },
+  {
+    "name": "Paramount Plus",
+    "key": "pmp",
+    "logo": "https://images.justwatch.com/icon/242706661/s100/paramountplus.jpg"
+  },
+  {
+    "name": "HBO Max",
+    "key": "mxx",
+    "logo": "https://images.justwatch.com/icon/332884837/s100/max.jpg"
+  },
+  {
+    "name": "Apple TV Store",
+    "key": "itu",
+    "logo": "https://images.justwatch.com/icon/338253243/s100/itunes.jpg"
+  },
+  {
+    "name": "Globoplay",
+    "key": "gop",
+    "logo": "https://images.justwatch.com/icon/270278212/s100/globoplay.jpg"
+  },
+  {
+    "name": "Crunchyroll",
+    "key": "cru",
+    "logo": "https://images.justwatch.com/icon/324213205/s100/crunchyroll.jpg"
+  },
+  {
+    "name": "MUBI",
+    "key": "mbi",
+    "logo": "https://images.justwatch.com/icon/164970114/s100/mubi.jpg"
+  },
+  {
+    "name": "Amazon Video",
+    "key": "amz",
+    "logo": "https://images.justwatch.com/icon/340823436/s100/amazon.jpg"
+  },
+  {
+    "name": "NetMovies",
+    "key": "ntm",
+    "logo": "https://images.justwatch.com/icon/446738/s100/netmovies.jpg"
+  },
+  {
+    "name": "Curiosity Stream",
+    "key": "cts",
+    "logo": "https://images.justwatch.com/icon/48600036/s100/curiositystream.jpg"
+  },
+  {
+    "name": "Belas Artes à La Carte",
+    "key": "bac",
+    "logo": "https://images.justwatch.com/icon/317553629/s100/belasartesalacarte.jpg"
+  },
+  {
+    "name": "Revry",
+    "key": "rvy",
+    "logo": "https://images.justwatch.com/icon/208144706/s100/revry.jpg"
+  },
+  {
+    "name": "DOCSVILLE",
+    "key": "dsv",
+    "logo": "https://images.justwatch.com/icon/208148387/s100/docsville.jpg"
+  },
+  {
+    "name": "Oldflix",
+    "key": "ofx",
+    "logo": "https://images.justwatch.com/icon/209544344/s100/oldflix.jpg"
+  },
+  {
+    "name": "GOSPEL PLAY",
+    "key": "gos",
+    "logo": "https://images.justwatch.com/icon/208171655/s100/gospelplay.jpg"
+  },
+  {
+    "name": "Libreflix",
+    "key": "lfl",
+    "logo": "https://images.justwatch.com/icon/243087398/s100/libreflix.jpg"
+  },
+  {
+    "name": "WOW Presents Plus",
+    "key": "wow",
+    "logo": "https://images.justwatch.com/icon/243229654/s100/wowpresentsplus.jpg"
+  },
+  {
+    "name": "Magellan TV",
+    "key": "mgl",
+    "logo": "https://images.justwatch.com/icon/243233518/s100/magellantv.jpg"
+  },
+  {
+    "name": "BroadwayHD",
+    "key": "bhd",
+    "logo": "https://images.justwatch.com/icon/243239329/s100/broadwayhd.jpg"
+  },
+  {
+    "name": "Filmzie",
+    "key": "fmz",
+    "logo": "https://images.justwatch.com/icon/269433194/s100/filmzie.jpg"
+  },
+  {
+    "name": "Dekkoo",
+    "key": "dkk",
+    "logo": "https://images.justwatch.com/icon/202068207/s100/dekkoo.jpg"
+  },
+  {
+    "name": "True Story",
+    "key": "trs",
+    "logo": "https://images.justwatch.com/icon/244289819/s100/truestory.jpg"
+  },
+  {
+    "name": "Hoichoi",
+    "key": "hoc",
+    "logo": "https://images.justwatch.com/icon/141253805/s100/hoichoi.jpg"
+  },
+  {
+    "name": "Pluto TV",
+    "key": "ptv",
+    "logo": "https://images.justwatch.com/icon/312204955/s100/plutotv.jpg"
+  },
+  {
+    "name": "Eventive",
+    "key": "eve",
+    "logo": "https://images.justwatch.com/icon/258768419/s100/eventive.jpg"
+  },
+  {
+    "name": "Looke Amazon Channel",
+    "key": "alo",
+    "logo": "https://images.justwatch.com/icon/259251955/s100/amazonlooke.jpg"
+  },
+  {
+    "name": "Paramount+ Amazon Channel",
+    "key": "app",
+    "logo": "https://images.justwatch.com/icon/246478651/s100/amazonparamountplus.jpg"
+  },
+  {
+    "name": "Love Nature Amazon Channel",
+    "key": "aln",
+    "logo": "https://images.justwatch.com/icon/248045090/s100/amazonlovenature.jpg"
+  },
+  {
+    "name": "Cultpix",
+    "key": "ctx",
+    "logo": "https://images.justwatch.com/icon/264459628/s100/cultpix.jpg"
+  },
+  {
+    "name": "Sun Nxt",
+    "key": "snx",
+    "logo": "https://images.justwatch.com/icon/138047862/s100/sunnxt.jpg"
+  },
+  {
+    "name": "Netflix Standard with Ads",
+    "key": "nfa",
+    "logo": "https://images.justwatch.com/icon/330025803/s100/netflixbasicwithads.jpg"
+  },
+  {
+    "name": "NBA League Pass",
+    "key": "nlp",
+    "logo": "https://images.justwatch.com/icon/319882438/s100/nbaleaguepass.jpg"
+  },
+  {
+    "name": "NFL Game Pass",
+    "key": "ngp",
+    "logo": "https://images.justwatch.com/icon/300617757/s100/nflgamepass.jpg"
+  },
+  {
+    "name": "OneFootball",
+    "key": "ofb",
+    "logo": "https://images.justwatch.com/icon/301743701/s100/onefootball.jpg"
+  },
+  {
+    "name": "DAZN",
+    "key": "dzn",
+    "logo": "https://images.justwatch.com/icon/321592050/s100/dazn.jpg"
+  },
+  {
+    "name": "Twitch",
+    "key": "twc",
+    "logo": "https://images.justwatch.com/icon/300972612/s100/twitch.jpg"
+  },
+  {
+    "name": "ESPN",
+    "key": "esp",
+    "logo": "https://images.justwatch.com/icon/334857849/s100/espn.jpg"
+  },
+  {
+    "name": "Band Sports",
+    "key": "ban",
+    "logo": "https://images.justwatch.com/icon/302865136/s100/tvbandsports.jpg"
+  },
+  {
+    "name": "SBT Sports",
+    "key": "sbr",
+    "logo": "https://images.justwatch.com/icon/302928097/s100/sbtsports.jpg"
+  },
+  {
+    "name": "Paramount Plus Apple TV channel",
+    "key": "ppa",
+    "logo": "https://images.justwatch.com/icon/303391391/s100/appletvparamountplus.jpg"
+  },
+  {
+    "name": "ESPN 3",
+    "key": "es3",
+    "logo": "https://images.justwatch.com/icon/300699472/s100/espn3.jpg"
+  },
+  {
+    "name": "ESPN 2",
+    "key": "es2",
+    "logo": "https://images.justwatch.com/icon/300699474/s100/espn2.jpg"
+  },
+  {
+    "name": "F1TV Pro",
+    "key": "f1t",
+    "logo": "https://images.justwatch.com/icon/303972156/s100/f1tv.jpg"
+  },
+  {
+    "name": "Univer Video",
+    "key": "unv",
+    "logo": "https://images.justwatch.com/icon/304059466/s100/univervideo.jpg"
+  },
+  {
+    "name": "WTA TV",
+    "key": "wta",
+    "logo": "https://images.justwatch.com/icon/304140342/s100/wtatv.jpg"
+  },
+  {
+    "name": "Tennis TV",
+    "key": "tnn",
+    "logo": "https://images.justwatch.com/icon/304140196/s100/tennistv.jpg"
+  },
+  {
+    "name": "Runtime",
+    "key": "run",
+    "logo": "https://images.justwatch.com/icon/333103406/s100/runtime.jpg"
+  },
+  {
+    "name": "Premiere",
+    "key": "gpr",
+    "logo": "https://images.justwatch.com/icon/304887325/s100/premierebrazil.jpg"
+  },
+  {
+    "name": "Premiere Amazon Channel",
+    "key": "apr",
+    "logo": "https://images.justwatch.com/icon/304978519/s100/amazonpremierebr.jpg"
+  },
+  {
+    "name": "YouTube Sports",
+    "key": "yts",
+    "logo": "https://images.justwatch.com/icon/59562423/s100/youtubesports.jpg"
+  },
+  {
+    "name": "SporTV",
+    "key": "spr",
+    "logo": "https://images.justwatch.com/icon/305538913/s100/sportv.jpg"
+  },
+  {
+    "name": "NWSL+",
+    "key": "nws",
+    "logo": "https://images.justwatch.com/icon/312395858/s100/nwslsoccercom.jpg"
+  },
+  {
+    "name": "Reserva Imovision",
+    "key": "rmv",
+    "logo": "https://images.justwatch.com/icon/349683590/s100/reservaimovision.jpg"
+  },
+  {
+    "name": "UEFA tv",
+    "key": "uef",
+    "logo": "https://images.justwatch.com/icon/304800674/s100/uefatv.jpg"
+  },
+  {
+    "name": "TV Globo",
+    "key": "glo",
+    "logo": "https://images.justwatch.com/icon/306571404/s100/tvglobobrazil.jpg"
+  },
+  {
+    "name": "FIFA+",
+    "key": "fif",
+    "logo": "https://images.justwatch.com/icon/306585562/s100/fifaplus.jpg"
+  },
+  {
+    "name": "DAZN NFL Game Pass",
+    "key": "dnf",
+    "logo": "https://images.justwatch.com/icon/307286936/s100/daznnflgp.jpg"
+  },
+  {
+    "name": "PRTV",
+    "key": "prt",
+    "logo": "https://images.justwatch.com/icon/308766396/s100/prtv.jpg"
+  },
+  {
+    "name": "Shahid VIP",
+    "key": "sha",
+    "logo": "https://images.justwatch.com/icon/280600874/s100/shahidvip.jpg"
+  },
+  {
+    "name": "NBA League Pass Amazon Channel",
+    "key": "anb",
+    "logo": "https://images.justwatch.com/icon/319882451/s100/amazonnbalp.jpg"
+  },
+  {
+    "name": "DFB Play",
+    "key": "dfb",
+    "logo": "https://images.justwatch.com/icon/311327139/s100/dfbplay.jpg"
+  },
+  {
+    "name": "BTV",
+    "key": "ben",
+    "logo": "https://images.justwatch.com/icon/304469228/s100/benficatv.jpg"
+  },
+  {
+    "name": "Bandplay",
+    "key": "bnp",
+    "logo": "https://images.justwatch.com/icon/312160968/s100/bandplay.jpg"
+  },
+  {
+    "name": "HBO Max Amazon Channel",
+    "key": "aho",
+    "logo": "https://images.justwatch.com/icon/343788557/s100/amazonhbomax.jpg"
+  },
+  {
+    "name": "Plex",
+    "key": "plx",
+    "logo": "https://images.justwatch.com/icon/301832745/s100/plex.jpg"
+  },
+  {
+    "name": "MLB TV",
+    "key": "mlb",
+    "logo": "https://images.justwatch.com/icon/300677816/s100/mlbtv.jpg"
+  },
+  {
+    "name": "Adrenalina Pura Amazon channel",
+    "key": "apz",
+    "logo": "https://images.justwatch.com/icon/314422700/s100/amazonadrenalinapura.jpg"
+  },
+  {
+    "name": "Adrenalina Pura Apple TV channel",
+    "key": "ape",
+    "logo": "https://images.justwatch.com/icon/314422698/s100/appletvadrenalinapura.jpg"
+  },
+  {
+    "name": "MGM+ Apple TV Channel",
+    "key": "mpa",
+    "logo": "https://images.justwatch.com/icon/313376726/s100/appletvmgmplus.jpg"
+  },
+  {
+    "name": "MGM Plus Amazon Channel",
+    "key": "mgp",
+    "logo": "https://images.justwatch.com/icon/302467404/s100/amazonmgmplus.jpg"
+  },
+  {
+    "name": "Telecine Amazon Channel",
+    "key": "atl",
+    "logo": "https://images.justwatch.com/icon/318069566/s100/amazontelecine.jpg"
+  },
+  {
+    "name": "Reserva Imovision Amazon Channel",
+    "key": "ari",
+    "logo": "https://images.justwatch.com/icon/318069691/s100/amazonimovision.jpg"
+  },
+  {
+    "name": "Stingray Amazon Channel",
+    "key": "asy",
+    "logo": "https://images.justwatch.com/icon/318069752/s100/amazonstingray.jpg"
+  },
+  {
+    "name": "CurtaOn Amazon Channel",
+    "key": "ako",
+    "logo": "https://images.justwatch.com/icon/318069833/s100/amazoncurtaon.jpg"
+  },
+  {
+    "name": "Playkids Learning Amazon Channel",
+    "key": "akl",
+    "logo": "https://images.justwatch.com/icon/318070414/s100/amazonplaykids.jpg"
+  },
+  {
+    "name": "MUBI Amazon Channel",
+    "key": "amu",
+    "logo": "https://images.justwatch.com/icon/241732473/s100/amazonmubi.jpg"
+  },
+  {
+    "name": "Discovery+ Amazon Channel",
+    "key": "adp",
+    "logo": "https://images.justwatch.com/icon/246478706/s100/amazondiscoveryplus.jpg"
+  },
+  {
+    "name": "Olympics.com",
+    "key": "ioc",
+    "logo": "https://images.justwatch.com/icon/319497687/s100/olympicscom.jpg"
+  },
+  {
+    "name": "Cinemark",
+    "key": "cmk",
+    "logo": "https://images.justwatch.com/icon/319638383/s100/cinemark.jpg"
+  },
+  {
+    "name": "Cinesystem Cinemas",
+    "key": "csc",
+    "logo": "https://images.justwatch.com/icon/319652283/s100/cinesystem.jpg"
+  },
+  {
+    "name": "ESPN 4",
+    "key": "es4",
+    "logo": "https://images.justwatch.com/icon/301772974/s100/espn4.jpg"
+  },
+  {
+    "name": "Kinoplex",
+    "key": "kpx",
+    "logo": "https://images.justwatch.com/icon/319818020/s100/kinoplex.jpg"
+  },
+  {
+    "name": "Cineflix",
+    "key": "cfx",
+    "logo": "https://images.justwatch.com/icon/319818090/s100/cineflix.jpg"
+  },
+  {
+    "name": "CazeTV Amazon Channel",
+    "key": "caz",
+    "logo": "https://images.justwatch.com/icon/319832675/s100/amazoncazetv.jpg"
+  },
+  {
+    "name": "Cinepolis Cinemas",
+    "key": "cnu",
+    "logo": "https://images.justwatch.com/icon/309432709/s100/cinepoliscinema.jpg"
+  },
+  {
+    "name": "UCIcinemas",
+    "key": "uci",
+    "logo": "https://images.justwatch.com/icon/3527064/s100/ucicinemas.jpg"
+  },
+  {
+    "name": "NFL Game Pass Amazon Channel",
+    "key": "agp",
+    "logo": "https://images.justwatch.com/icon/319902822/s100/amazonnflgamepass.jpg"
+  },
+  {
+    "name": "Centerplex Cinemas",
+    "key": "cpl",
+    "logo": "https://images.justwatch.com/icon/319908069/s100/centerplex.jpg"
+  },
+  {
+    "name": "Canais Globo Amazon Channel",
+    "key": "cgl",
+    "logo": "https://images.justwatch.com/icon/321429589/s100/amazoncanaisglobo.jpg"
+  },
+  {
+    "name": "Crunchyroll Amazon Channel",
+    "key": "cra",
+    "logo": "https://images.justwatch.com/icon/324213165/s100/amazoncrunchyroll.jpg"
+  },
+  {
+    "name": "Paramount Plus Premium",
+    "key": "ppp",
+    "logo": "https://images.justwatch.com/icon/332803145/s100/paramountpluspremium.jpg"
+  },
+  {
+    "name": "K League TV",
+    "key": "kl1",
+    "logo": "https://images.justwatch.com/icon/325516640/s100/kleaguetv.jpg"
+  },
+  {
+    "name": "Filmelier Plus Amazon Channel",
+    "key": "flp",
+    "logo": "https://images.justwatch.com/icon/326178228/s100/amazonfilmelierplus.jpg"
+  },
+  {
+    "name": "Apple TV Amazon Channel",
+    "key": "avl",
+    "logo": "https://images.justwatch.com/icon/338254390/s100/amazonappletvplus.jpg"
+  },
+  {
+    "name": "Jolt Film",
+    "key": "jfl",
+    "logo": "https://images.justwatch.com/icon/324785388/s100/joltfilm.jpg"
+  },
+  {
+    "name": "FOUND TV",
+    "key": "fod",
+    "logo": "https://images.justwatch.com/icon/330281529/s100/foundtv.jpg"
+  },
+  {
+    "name": "Box Brazil Play Amazon Channel",
+    "key": "bbp",
+    "logo": "https://images.justwatch.com/icon/330852725/s100/amazonboxbrazil.jpg"
+  },
+  {
+    "name": "Sony One Amazon Channel",
+    "key": "aso",
+    "logo": "https://images.justwatch.com/icon/318070662/s100/amazonsonyone.jpg"
+  },
+  {
+    "name": "Amazon Prime Video with Ads",
+    "key": "pva",
+    "logo": "https://images.justwatch.com/icon/322992746/s100/amazonprimevideowithads.jpg"
+  },
+  {
+    "name": "Destination Calcio",
+    "key": "dct",
+    "logo": "https://images.justwatch.com/icon/334900859/s100/destinationcalcio.jpg"
+  },
+  {
+    "name": "Bloodstream",
+    "key": "bsm",
+    "logo": "https://images.justwatch.com/icon/337011752/s100/bloodstream.jpg"
+  },
+  {
+    "name": "MovieMe",
+    "key": "mvm",
+    "logo": "https://images.justwatch.com/icon/336466142/s100/movieme.jpg"
+  },
+  {
+    "name": "EuroLeague TV",
+    "key": "elt",
+    "logo": "https://images.justwatch.com/icon/308449099/s100/euroleaguetv.jpg"
+  },
+  {
+    "name": "ge tv",
+    "key": "get",
+    "logo": "https://images.justwatch.com/icon/337777737/s100/getv.jpg"
+  },
+  {
+    "name": "Universal+ Amazon Channel",
+    "key": "auc",
+    "logo": "https://images.justwatch.com/icon/304872009/s100/amazonuniversalplus.jpg"
+  },
+  {
+    "name": "KableOne",
+    "key": "kbo",
+    "logo": "https://images.justwatch.com/icon/338826534/s100/kableone.jpg"
+  },
+  {
+    "name": "Diamond Films Amazon Channel",
+    "key": "dfl",
+    "logo": "https://images.justwatch.com/icon/339010714/s100/amazondiamondfilms.jpg"
+  },
+  {
+    "name": "Arte Amazon Channel",
+    "key": "ate",
+    "logo": "https://images.justwatch.com/icon/355206467/s100/amazonarte1.jpg"
+  },
+  {
+    "name": "Aquarius Amazon Channel",
+    "key": "aqa",
+    "logo": "https://images.justwatch.com/icon/339011609/s100/amazonaquarius.jpg"
+  },
+  {
+    "name": "Booh Amazon Channel",
+    "key": "boh",
+    "logo": "https://images.justwatch.com/icon/339012158/s100/amazonbooh.jpg"
+  },
+  {
+    "name": "CaixaForum+",
+    "key": "cfp",
+    "logo": "https://images.justwatch.com/icon/339586105/s100/caixaforumplus.jpg"
+  },
+  {
+    "name": "Artiflix",
+    "key": "afx",
+    "logo": "https://images.justwatch.com/icon/339924825/s100/artflix.jpg"
+  },
+  {
+    "name": "Artify",
+    "key": "atf",
+    "logo": "https://images.justwatch.com/icon/343216598/s100/artify.jpg"
+  },
+  {
+    "name": "Lionsgate+ Amazon Channel",
+    "key": "alg",
+    "logo": "https://images.justwatch.com/icon/348547396/s100/amazonlionsgateplus.jpg"
+  },
+  {
+    "name": "TV Brasil Play",
+    "key": "tbp",
+    "logo": "https://images.justwatch.com/icon/344242239/s100/tvbrasilplay.jpg"
+  },
+  {
+    "name": "IIHF.TV",
+    "key": "iih",
+    "logo": "https://images.justwatch.com/icon/345574312/s100/iihftv.jpg"
+  },
+  {
+    "name": "Koiplay Amazon Channel",
+    "key": "koi",
+    "logo": "https://images.justwatch.com/icon/346535112/s100/amazonkoiplay.jpg"
+  },
+  {
+    "name": "Pijama Films",
+    "key": "pij",
+    "logo": "https://images.justwatch.com/icon/350637525/s100/pijamafilms.jpg"
+  },
+  {
+    "name": "Cindie Amazon Channel",
+    "key": "acd",
+    "logo": "https://images.justwatch.com/icon/318071264/s100/amazoncindie.jpg"
+  },
+  {
+    "name": "Discovery Kids Amazon Channel",
+    "key": "dks",
+    "logo": "https://images.justwatch.com/icon/354301597/s100/amazondkids.jpg"
+  },
+  {
+    "name": "Doc Canal Brasil Amazon Channel",
+    "key": "dcb",
+    "logo": "https://images.justwatch.com/icon/354297928/s100/amazondoccanalbrasil.jpg"
+  },
+  {
+    "name": "Multishow Amazon Channel",
+    "key": "msw",
+    "logo": "https://images.justwatch.com/icon/354304794/s100/amazonglobomultishow.jpg"
+  },
+  {
+    "name": "Modo Viagem Amazon Channel",
+    "key": "mod",
+    "logo": "https://images.justwatch.com/icon/354319054/s100/amazonglobomodo.jpg"
+  },
+  {
+    "name": "Gloob Amazon Channel",
+    "key": "gob",
+    "logo": "https://images.justwatch.com/icon/354319629/s100/amazonglobokids.jpg"
+  },
+  {
+    "name": "The Great Courses Signature Collection Amazon Channel",
+    "key": "agc",
+    "logo": "https://images.justwatch.com/icon/248045154/s100/amazongreatcourses.jpg"
+  },
+  {
+    "name": "URC TV",
+    "key": "urc",
+    "logo": "https://images.justwatch.com/icon/301857950/s100/urctv.jpg"
+  },
+  {
+    "name": "Cartoon Network Amazon Channel",
+    "key": "ack",
+    "logo": "https://images.justwatch.com/icon/324776319/s100/amazoncartoonnetwork.jpg"
+  },
+  {
+    "name": "Lente Curta+",
+    "key": "len",
+    "logo": "https://images.justwatch.com/icon/355011542/s100/lentecurtaplus.jpg"
+  }
+]

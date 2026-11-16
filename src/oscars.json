@@ -1,0 +1,1864 @@
+{
+  "1990": [
+    {
+      "name": "Driving Miss Daisy",
+      "year": 1989,
+      "winner": true,
+      "catalogId": 10000144196,
+      "catalogYear": 1989
+    },
+    {
+      "name": "Born on the Fourth of July",
+      "year": 1989,
+      "winner": false,
+      "catalogId": 10000140059,
+      "catalogYear": 1989
+    },
+    {
+      "name": "Dead Poets Society",
+      "year": 1989,
+      "winner": false,
+      "catalogId": 10000134674,
+      "catalogYear": 1989
+    },
+    {
+      "name": "Field of Dreams",
+      "year": 1989,
+      "winner": false,
+      "catalogId": 10000142562,
+      "catalogYear": 1989
+    },
+    {
+      "name": "My Left Foot",
+      "year": 1989,
+      "winner": false,
+      "catalogId": 10000140966,
+      "catalogYear": 1989
+    }
+  ],
+  "1991": [
+    {
+      "name": "Dances With Wolves",
+      "year": 1990,
+      "winner": true,
+      "catalogId": 10000155112,
+      "catalogYear": 1990
+    },
+    {
+      "name": "Awakenings",
+      "year": 1990,
+      "winner": false,
+      "catalogId": 10000145608,
+      "catalogYear": 1990
+    },
+    {
+      "name": "Ghost",
+      "year": 1990,
+      "winner": false,
+      "catalogId": 10000148145,
+      "catalogYear": 1990
+    },
+    {
+      "name": "The Godfather, Part III",
+      "year": 1990,
+      "winner": false,
+      "catalogId": 10001522993,
+      "catalogYear": 1990
+    },
+    {
+      "name": "Good Fellas",
+      "year": 1990,
+      "winner": false,
+      "catalogId": 10000155787,
+      "catalogYear": 1990
+    }
+  ],
+  "1992": [
+    {
+      "name": "The Silence of the Lambs",
+      "year": 1991,
+      "winner": true,
+      "catalogId": 10000008843,
+      "catalogYear": 1991
+    },
+    {
+      "name": "Beauty and the Beast",
+      "year": 1991,
+      "winner": false,
+      "catalogId": 10000009048,
+      "catalogYear": 1991
+    },
+    {
+      "name": "Bugsy",
+      "year": 1991,
+      "winner": false,
+      "catalogId": 10000008799,
+      "catalogYear": 1991
+    },
+    {
+      "name": "JFK",
+      "year": 1991,
+      "winner": false,
+      "catalogId": 10000008654,
+      "catalogYear": 1991
+    },
+    {
+      "name": "The Prince of Tides",
+      "year": 1991,
+      "winner": false,
+      "catalogId": 10000010850,
+      "catalogYear": 1991
+    }
+  ],
+  "1993": [
+    {
+      "name": "Unforgiven",
+      "year": 1992,
+      "winner": true,
+      "catalogId": 10000128806,
+      "catalogYear": 1992
+    },
+    {
+      "name": "The Crying Game",
+      "year": 1992,
+      "winner": false,
+      "catalogId": 10000126118,
+      "catalogYear": 1992
+    },
+    {
+      "name": "A Few Good Men",
+      "year": 1992,
+      "winner": false,
+      "catalogId": 10000001975,
+      "catalogYear": 1992
+    },
+    {
+      "name": "Howards End",
+      "year": 1992,
+      "winner": false,
+      "catalogId": 10000123057,
+      "catalogYear": 1992
+    },
+    {
+      "name": "Scent of a Woman",
+      "year": 1992,
+      "winner": false,
+      "catalogId": 10000125153,
+      "catalogYear": 1992
+    }
+  ],
+  "1994": [
+    {
+      "name": "Schindler's List",
+      "year": 1993,
+      "winner": true,
+      "catalogId": 10000188361,
+      "catalogYear": 1993
+    },
+    {
+      "name": "The Fugitive",
+      "year": 1993,
+      "winner": false,
+      "catalogId": 10000189434,
+      "catalogYear": 1993
+    },
+    {
+      "name": "In the Name of the Father",
+      "year": 1993,
+      "winner": false,
+      "catalogId": 10000187801,
+      "catalogYear": 1993
+    },
+    {
+      "name": "The Piano",
+      "year": 1993,
+      "winner": false,
+      "catalogId": 10000189026,
+      "catalogYear": 1993
+    },
+    {
+      "name": "The Remains of the Day",
+      "year": 1993,
+      "winner": false,
+      "catalogId": 10000183875,
+      "catalogYear": 1993
+    }
+  ],
+  "1995": [
+    {
+      "name": "Forrest Gump",
+      "year": 1994,
+      "winner": true,
+      "catalogId": 10000122434,
+      "catalogYear": 1994
+    },
+    {
+      "name": "Four Weddings and a Funeral",
+      "year": 1994,
+      "winner": false,
+      "catalogId": 10000122429,
+      "catalogYear": 1994
+    },
+    {
+      "name": "Pulp Fiction",
+      "year": 1994,
+      "winner": false,
+      "catalogId": 10000112130,
+      "catalogYear": 1994
+    },
+    {
+      "name": "Quiz Show",
+      "year": 1994,
+      "winner": false,
+      "catalogId": 10000112792,
+      "catalogYear": 1994
+    },
+    {
+      "name": "The Shawshank Redemption",
+      "year": 1994,
+      "winner": false,
+      "catalogId": 10000119206,
+      "catalogYear": 1994
+    }
+  ],
+  "1996": [
+    {
+      "name": "Braveheart",
+      "year": 1995,
+      "winner": true,
+      "catalogId": 10000012503,
+      "catalogYear": 1995
+    },
+    {
+      "name": "Apollo 13",
+      "year": 1995,
+      "winner": false,
+      "catalogId": 10000016819,
+      "catalogYear": 1995
+    },
+    {
+      "name": "Babe",
+      "year": 1995,
+      "winner": false,
+      "catalogId": 10000012239,
+      "catalogYear": 1995
+    },
+    {
+      "name": "The Postman (Il Postino)",
+      "year": 1995,
+      "winner": false,
+      "catalogId": 10000114115,
+      "catalogYear": 1994
+    },
+    {
+      "name": "Sense and Sensibility",
+      "year": 1995,
+      "winner": false,
+      "catalogId": 10000015925,
+      "catalogYear": 1995
+    }
+  ],
+  "1997": [
+    {
+      "name": "The English Patient",
+      "year": 1996,
+      "winner": true,
+      "catalogId": 10000110567,
+      "catalogYear": 1996
+    },
+    {
+      "name": "Fargo",
+      "year": 1996,
+      "winner": false,
+      "catalogId": 10000106648,
+      "catalogYear": 1996
+    },
+    {
+      "name": "Jerry Maguire",
+      "year": 1996,
+      "winner": false,
+      "catalogId": 10000107165,
+      "catalogYear": 1996
+    },
+    {
+      "name": "Secrets & Lies",
+      "year": 1996,
+      "winner": false,
+      "catalogId": 10000105539,
+      "catalogYear": 1996
+    },
+    {
+      "name": "Shine",
+      "year": 1996,
+      "winner": false,
+      "catalogId": 10000104926,
+      "catalogYear": 1996
+    }
+  ],
+  "1998": [
+    {
+      "name": "Titanic",
+      "year": 1997,
+      "winner": true,
+      "catalogId": 10000191110,
+      "catalogYear": 1997
+    },
+    {
+      "name": "As Good as It Gets",
+      "year": 1997,
+      "winner": false
+    },
+    {
+      "name": "The Full Monty",
+      "year": 1997,
+      "winner": false,
+      "catalogId": 10000191752,
+      "catalogYear": 1997
+    },
+    {
+      "name": "Good Will Hunting",
+      "year": 1997,
+      "winner": false,
+      "catalogId": 10000191716,
+      "catalogYear": 1998
+    },
+    {
+      "name": "L.A. Confidential",
+      "year": 1997,
+      "winner": false,
+      "catalogId": 10000192099,
+      "catalogYear": 1997
+    }
+  ],
+  "1999": [
+    {
+      "name": "Shakespeare in Love",
+      "year": 1998,
+      "winner": true,
+      "catalogId": 10000053682,
+      "catalogYear": 1998
+    },
+    {
+      "name": "Elizabeth",
+      "year": 1998,
+      "winner": false,
+      "catalogId": 10000046665,
+      "catalogYear": 1998
+    },
+    {
+      "name": "Life Is Beautiful",
+      "year": 1998,
+      "winner": false,
+      "catalogId": 10000191045,
+      "catalogYear": 1997
+    },
+    {
+      "name": "Saving Private Ryan",
+      "year": 1998,
+      "winner": false,
+      "catalogId": 10000057554,
+      "catalogYear": 1998
+    },
+    {
+      "name": "The Thin Red Line",
+      "year": 1998,
+      "winner": false,
+      "catalogId": 10000062578,
+      "catalogYear": 1999
+    }
+  ],
+  "2000": [
+    {
+      "name": "American Beauty",
+      "year": 1999,
+      "winner": true,
+      "catalogId": 10000057615,
+      "catalogYear": 1999
+    },
+    {
+      "name": "The Cider House Rules",
+      "year": 1999,
+      "winner": false,
+      "catalogId": 10000043343,
+      "catalogYear": 2000
+    },
+    {
+      "name": "The Green Mile",
+      "year": 1999,
+      "winner": false,
+      "catalogId": 10000054285,
+      "catalogYear": 1999
+    },
+    {
+      "name": "The Insider",
+      "year": 1999,
+      "winner": false,
+      "catalogId": 10000049114,
+      "catalogYear": 1999
+    },
+    {
+      "name": "The Sixth Sense",
+      "year": 1999,
+      "winner": false,
+      "catalogId": 10000055542,
+      "catalogYear": 1999
+    }
+  ],
+  "2001": [
+    {
+      "name": "Gladiator",
+      "year": 2000,
+      "winner": true,
+      "catalogId": 10000028142,
+      "catalogYear": 2000
+    },
+    {
+      "name": "Chocolat",
+      "year": 2000,
+      "winner": false
+    },
+    {
+      "name": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "winner": false,
+      "catalogId": 10000023390,
+      "catalogYear": 2000
+    },
+    {
+      "name": "Erin Brockovich",
+      "year": 2000,
+      "winner": false,
+      "catalogId": 10000018936,
+      "catalogYear": 2000
+    },
+    {
+      "name": "Traffic",
+      "year": 2000,
+      "winner": false,
+      "catalogId": 10000021809,
+      "catalogYear": 2001
+    }
+  ],
+  "2002": [
+    {
+      "name": "A Beautiful Mind",
+      "year": 2001,
+      "winner": true,
+      "catalogId": 10000046003,
+      "catalogYear": 2001
+    },
+    {
+      "name": "Gosford Park",
+      "year": 2001,
+      "winner": false,
+      "catalogId": 10000042888,
+      "catalogYear": 2001
+    },
+    {
+      "name": "In the Bedroom",
+      "year": 2001,
+      "winner": false,
+      "catalogId": 10000037432,
+      "catalogYear": 2001
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "winner": false,
+      "catalogId": 10000044313,
+      "catalogYear": 2001
+    },
+    {
+      "name": "Moulin Rouge",
+      "year": 2001,
+      "winner": false,
+      "catalogId": 10000030891,
+      "catalogYear": 2001
+    }
+  ],
+  "2003": [
+    {
+      "name": "Chicago",
+      "year": 2002,
+      "winner": true,
+      "catalogId": 10000119082,
+      "catalogYear": 2002
+    },
+    {
+      "name": "Gangs of New York",
+      "year": 2002,
+      "winner": false,
+      "catalogId": 10000105987,
+      "catalogYear": 2002
+    },
+    {
+      "name": "The Hours",
+      "year": 2002,
+      "winner": false,
+      "catalogId": 10000108290,
+      "catalogYear": 2003
+    },
+    {
+      "name": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "winner": false,
+      "catalogId": 10000115982,
+      "catalogYear": 2002
+    },
+    {
+      "name": "The Pianist",
+      "year": 2002,
+      "winner": false,
+      "catalogId": 10000114752,
+      "catalogYear": 2002
+    }
+  ],
+  "2004": [
+    {
+      "name": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "winner": true,
+      "catalogId": 10000142381,
+      "catalogYear": 2003
+    },
+    {
+      "name": "Lost in Translation",
+      "year": 2003,
+      "winner": false,
+      "catalogId": 10000134211,
+      "catalogYear": 2003
+    },
+    {
+      "name": "Master and Commander: The Far Side of the World",
+      "year": 2003,
+      "winner": false,
+      "catalogId": 10000144250,
+      "catalogYear": 2003
+    },
+    {
+      "name": "Mystic River",
+      "year": 2003,
+      "winner": false,
+      "catalogId": 10000139536,
+      "catalogYear": 2003
+    },
+    {
+      "name": "Seabiscuit",
+      "year": 2003,
+      "winner": false,
+      "catalogId": 10000149432,
+      "catalogYear": 2003
+    }
+  ],
+  "2005": [
+    {
+      "name": "Million Dollar Baby",
+      "year": 2004,
+      "winner": true,
+      "catalogId": 10000084441,
+      "catalogYear": 2004
+    },
+    {
+      "name": "The Aviator",
+      "year": 2004,
+      "winner": false,
+      "catalogId": 10000086637,
+      "catalogYear": 2004
+    },
+    {
+      "name": "Finding Neverland",
+      "year": 2004,
+      "winner": false,
+      "catalogId": 10000080908,
+      "catalogYear": 2004
+    },
+    {
+      "name": "Ray",
+      "year": 2004,
+      "winner": false,
+      "catalogId": 10000081079,
+      "catalogYear": 2004
+    },
+    {
+      "name": "Sideways",
+      "year": 2004,
+      "winner": false,
+      "catalogId": 10000089991,
+      "catalogYear": 2004
+    }
+  ],
+  "2006": [
+    {
+      "name": "Crash",
+      "year": 2005,
+      "winner": true,
+      "catalogId": 10000094303,
+      "catalogYear": 2005
+    },
+    {
+      "name": "Brokeback Mountain",
+      "year": 2005,
+      "winner": false,
+      "catalogId": 10000169295,
+      "catalogYear": 2005
+    },
+    {
+      "name": "Capote",
+      "year": 2005,
+      "winner": false,
+      "catalogId": 10000168017,
+      "catalogYear": 2006
+    },
+    {
+      "name": "Good Night, and Good Luck.",
+      "year": 2005,
+      "winner": false,
+      "catalogId": 10000166250,
+      "catalogYear": 2005
+    },
+    {
+      "name": "Munich",
+      "year": 2005,
+      "winner": false,
+      "catalogId": 10000174540,
+      "catalogYear": 2005
+    }
+  ],
+  "2007": [
+    {
+      "name": "The Departed",
+      "year": 2006,
+      "winner": true,
+      "catalogId": 10000027911,
+      "catalogYear": 2006
+    },
+    {
+      "name": "Babel",
+      "year": 2006,
+      "winner": false,
+      "catalogId": 10000030053,
+      "catalogYear": 2006
+    },
+    {
+      "name": "Letters from Iwo Jima",
+      "year": 2006,
+      "winner": false,
+      "catalogId": 10000023485,
+      "catalogYear": 2006
+    },
+    {
+      "name": "Little Miss Sunshine",
+      "year": 2006,
+      "winner": false,
+      "catalogId": 10000026292,
+      "catalogYear": 2006
+    },
+    {
+      "name": "The Queen",
+      "year": 2006,
+      "winner": false,
+      "catalogId": 10000035198,
+      "catalogYear": 2006
+    }
+  ],
+  "2008": [
+    {
+      "name": "No Country for Old Men",
+      "year": 2007,
+      "winner": true,
+      "catalogId": 10000068666,
+      "catalogYear": 2007
+    },
+    {
+      "name": "Atonement",
+      "year": 2007,
+      "winner": false,
+      "catalogId": 10000075465,
+      "catalogYear": 2007
+    },
+    {
+      "name": "Juno",
+      "year": 2007,
+      "winner": false,
+      "catalogId": 10000078084,
+      "catalogYear": 2007
+    },
+    {
+      "name": "Michael Clayton",
+      "year": 2007,
+      "winner": false,
+      "catalogId": 10000078592,
+      "catalogYear": 2007
+    },
+    {
+      "name": "There Will Be Blood",
+      "year": 2007,
+      "winner": false,
+      "catalogId": 10000076553,
+      "catalogYear": 2007
+    }
+  ],
+  "2009": [
+    {
+      "name": "Slumdog Millionaire",
+      "year": 2008,
+      "winner": true,
+      "catalogId": 10000054060,
+      "catalogYear": 2008
+    },
+    {
+      "name": "The Curious Case of Benjamin Button",
+      "year": 2008,
+      "winner": false,
+      "catalogId": 10000052046,
+      "catalogYear": 2008
+    },
+    {
+      "name": "Frost/Nixon",
+      "year": 2008,
+      "winner": false,
+      "catalogId": 10000042923,
+      "catalogYear": 2008
+    },
+    {
+      "name": "Milk",
+      "year": 2008,
+      "winner": false,
+      "catalogId": 10000028700,
+      "catalogYear": 2008
+    },
+    {
+      "name": "The Reader",
+      "year": 2008,
+      "winner": false,
+      "catalogId": 10000054001,
+      "catalogYear": 2009
+    }
+  ],
+  "2010": [
+    {
+      "name": "The Hurt Locker",
+      "year": 2009,
+      "winner": true,
+      "catalogId": 10000026327,
+      "catalogYear": 2008
+    },
+    {
+      "name": "Avatar",
+      "year": 2009,
+      "winner": false,
+      "catalogId": 10000135853,
+      "catalogYear": 2009
+    },
+    {
+      "name": "The Blind Side",
+      "year": 2009,
+      "winner": false,
+      "catalogId": 10000133374,
+      "catalogYear": 2009
+    },
+    {
+      "name": "District 9",
+      "year": 2009,
+      "winner": false,
+      "catalogId": 10000136410,
+      "catalogYear": 2009
+    },
+    {
+      "name": "An Education",
+      "year": 2009,
+      "winner": false,
+      "catalogId": 10000156002,
+      "catalogYear": 2009
+    },
+    {
+      "name": "Inglourious Basterds",
+      "year": 2009,
+      "winner": false,
+      "catalogId": 10000143861,
+      "catalogYear": 2009
+    },
+    {
+      "name": "Precious: Based on the Novel 'Push' by Sapphire",
+      "year": 2009,
+      "winner": false,
+      "catalogId": 10000132122,
+      "catalogYear": 2009
+    },
+    {
+      "name": "A Serious Man",
+      "year": 2009,
+      "winner": false,
+      "catalogId": 10000144497,
+      "catalogYear": 2009
+    },
+    {
+      "name": "Up",
+      "year": 2009,
+      "winner": false,
+      "catalogId": 10000153612,
+      "catalogYear": 2009
+    },
+    {
+      "name": "Up in the Air",
+      "year": 2009,
+      "winner": false,
+      "catalogId": 10000153600,
+      "catalogYear": 2009
+    }
+  ],
+  "2011": [
+    {
+      "name": "The King's Speech",
+      "year": 2010,
+      "winner": true,
+      "catalogId": 10000092034,
+      "catalogYear": 2010
+    },
+    {
+      "name": "Black Swan",
+      "year": 2010,
+      "winner": false,
+      "catalogId": 10000100061,
+      "catalogYear": 2010
+    },
+    {
+      "name": "The Fighter",
+      "year": 2010,
+      "winner": false,
+      "catalogId": 10000101914,
+      "catalogYear": 2010
+    },
+    {
+      "name": "Inception",
+      "year": 2010,
+      "winner": false,
+      "catalogId": 10000092641,
+      "catalogYear": 2010
+    },
+    {
+      "name": "The Kids Are All Right",
+      "year": 2010,
+      "winner": false,
+      "catalogId": 10000093451,
+      "catalogYear": 2010
+    },
+    {
+      "name": "127 Hours",
+      "year": 2010,
+      "winner": false,
+      "catalogId": 10000102558,
+      "catalogYear": 2011
+    },
+    {
+      "name": "The Social Network",
+      "year": 2010,
+      "winner": false,
+      "catalogId": 10000086803,
+      "catalogYear": 2010
+    },
+    {
+      "name": "Toy Story 3",
+      "year": 2010,
+      "winner": false,
+      "catalogId": 10000101226,
+      "catalogYear": 2010
+    },
+    {
+      "name": "True Grit",
+      "year": 2010,
+      "winner": false,
+      "catalogId": 10000090190,
+      "catalogYear": 2010
+    },
+    {
+      "name": "Winter's Bone",
+      "year": 2010,
+      "winner": false,
+      "catalogId": 10000095604,
+      "catalogYear": 2010
+    }
+  ],
+  "2012": [
+    {
+      "name": "The Artist",
+      "year": 2011,
+      "winner": true,
+      "catalogId": 10000174707,
+      "catalogYear": 2011
+    },
+    {
+      "name": "The Descendants",
+      "year": 2011,
+      "winner": false,
+      "catalogId": 10000176744,
+      "catalogYear": 2011
+    },
+    {
+      "name": "Extremely Loud & Incredibly Close",
+      "year": 2011,
+      "winner": false,
+      "catalogId": 10000173513,
+      "catalogYear": 2011
+    },
+    {
+      "name": "The Help",
+      "year": 2011,
+      "winner": false,
+      "catalogId": 10000168805,
+      "catalogYear": 2011
+    },
+    {
+      "name": "Hugo",
+      "year": 2011,
+      "winner": false,
+      "catalogId": 10000173538,
+      "catalogYear": 2011
+    },
+    {
+      "name": "Midnight in Paris",
+      "year": 2011,
+      "winner": false,
+      "catalogId": 10000164877,
+      "catalogYear": 2011
+    },
+    {
+      "name": "Moneyball",
+      "year": 2011,
+      "winner": false,
+      "catalogId": 10000171801,
+      "catalogYear": 2011
+    },
+    {
+      "name": "The Tree of Life",
+      "year": 2011,
+      "winner": false,
+      "catalogId": 10000170469,
+      "catalogYear": 2011
+    },
+    {
+      "name": "War Horse",
+      "year": 2011,
+      "winner": false,
+      "catalogId": 10000166550,
+      "catalogYear": 2011
+    }
+  ],
+  "2013": [
+    {
+      "name": "Argo",
+      "year": 2012,
+      "winner": true,
+      "catalogId": 10000060292,
+      "catalogYear": 2012
+    },
+    {
+      "name": "Amour",
+      "year": 2012,
+      "winner": false,
+      "catalogId": 10000042327,
+      "catalogYear": 2012
+    },
+    {
+      "name": "Beasts of the Southern Wild",
+      "year": 2012,
+      "winner": false,
+      "catalogId": 10000072100,
+      "catalogYear": 2012
+    },
+    {
+      "name": "Django Unchained",
+      "year": 2012,
+      "winner": false,
+      "catalogId": 10000041792,
+      "catalogYear": 2012
+    },
+    {
+      "name": "Les Misérables",
+      "year": 2012,
+      "winner": false,
+      "catalogId": 10000032982,
+      "catalogYear": 2012
+    },
+    {
+      "name": "Life of Pi",
+      "year": 2012,
+      "winner": false,
+      "catalogId": 10000063441,
+      "catalogYear": 2012
+    },
+    {
+      "name": "Lincoln",
+      "year": 2012,
+      "winner": false,
+      "catalogId": 10000055567,
+      "catalogYear": 2012
+    },
+    {
+      "name": "Silver Linings Playbook",
+      "year": 2012,
+      "winner": false,
+      "catalogId": 10000059428,
+      "catalogYear": 2012
+    },
+    {
+      "name": "Zero Dark Thirty",
+      "year": 2012,
+      "winner": false,
+      "catalogId": 10000061801,
+      "catalogYear": 2012
+    }
+  ],
+  "2014": [
+    {
+      "name": "12 Years a Slave",
+      "year": 2013,
+      "winner": true,
+      "catalogId": 10000188852,
+      "catalogYear": 2013
+    },
+    {
+      "name": "American Hustle",
+      "year": 2013,
+      "winner": false,
+      "catalogId": 10000181748,
+      "catalogYear": 2013
+    },
+    {
+      "name": "Captain Phillips",
+      "year": 2013,
+      "winner": false,
+      "catalogId": 10000176861,
+      "catalogYear": 2013
+    },
+    {
+      "name": "Dallas Buyers Club",
+      "year": 2013,
+      "winner": false,
+      "catalogId": 10000168111,
+      "catalogYear": 2013
+    },
+    {
+      "name": "Gravity",
+      "year": 2013,
+      "winner": false,
+      "catalogId": 10000179029,
+      "catalogYear": 2013
+    },
+    {
+      "name": "Her",
+      "year": 2013,
+      "winner": false,
+      "catalogId": 10000169422,
+      "catalogYear": 2013
+    },
+    {
+      "name": "Nebraska",
+      "year": 2013,
+      "winner": false,
+      "catalogId": 10000161814,
+      "catalogYear": 2013
+    },
+    {
+      "name": "Philomena",
+      "year": 2013,
+      "winner": false,
+      "catalogId": 10000187279,
+      "catalogYear": 2013
+    },
+    {
+      "name": "The Wolf of Wall Street",
+      "year": 2013,
+      "winner": false,
+      "catalogId": 10000188690,
+      "catalogYear": 2013
+    }
+  ],
+  "2015": [
+    {
+      "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "year": 2014,
+      "winner": true,
+      "catalogId": 10000151077,
+      "catalogYear": 2014
+    },
+    {
+      "name": "American Sniper",
+      "year": 2014,
+      "winner": false,
+      "catalogId": 10000137713,
+      "catalogYear": 2015
+    },
+    {
+      "name": "Boyhood",
+      "year": 2014,
+      "winner": false,
+      "catalogId": 10000153755,
+      "catalogYear": 2014
+    },
+    {
+      "name": "The Grand Budapest Hotel",
+      "year": 2014,
+      "winner": false,
+      "catalogId": 10000162843,
+      "catalogYear": 2014
+    },
+    {
+      "name": "The Imitation Game",
+      "year": 2014,
+      "winner": false,
+      "catalogId": 10000140877,
+      "catalogYear": 2014
+    },
+    {
+      "name": "Selma",
+      "year": 2014,
+      "winner": false,
+      "catalogId": 10000136743,
+      "catalogYear": 2015
+    },
+    {
+      "name": "The Theory of Everything",
+      "year": 2014,
+      "winner": false,
+      "catalogId": 10000160708,
+      "catalogYear": 2014
+    },
+    {
+      "name": "Whiplash",
+      "year": 2014,
+      "winner": false,
+      "catalogId": 10000158646,
+      "catalogYear": 2014
+    }
+  ],
+  "2016": [
+    {
+      "name": "Spotlight",
+      "year": 2015,
+      "winner": true,
+      "catalogId": 10000218359,
+      "catalogYear": 2015
+    },
+    {
+      "name": "The Big Short",
+      "year": 2015,
+      "winner": false,
+      "catalogId": 10000222133,
+      "catalogYear": 2015
+    },
+    {
+      "name": "Bridge of Spies",
+      "year": 2015,
+      "winner": false,
+      "catalogId": 10000139694,
+      "catalogYear": 2015
+    },
+    {
+      "name": "Brooklyn",
+      "year": 2015,
+      "winner": false,
+      "catalogId": 10000134804,
+      "catalogYear": 2015
+    },
+    {
+      "name": "Mad Max: Fury Road",
+      "year": 2015,
+      "winner": false,
+      "catalogId": 10000139376,
+      "catalogYear": 2015
+    },
+    {
+      "name": "The Martian",
+      "year": 2015,
+      "winner": false,
+      "catalogId": 10000138400,
+      "catalogYear": 2015
+    },
+    {
+      "name": "The Revenant",
+      "year": 2015,
+      "winner": false,
+      "catalogId": 10000139729,
+      "catalogYear": 2016
+    },
+    {
+      "name": "Room",
+      "year": 2015,
+      "winner": false,
+      "catalogId": 10000140174,
+      "catalogYear": 2015
+    }
+  ],
+  "2017": [
+    {
+      "name": "Moonlight",
+      "year": 2016,
+      "winner": true,
+      "catalogId": 10000245132,
+      "catalogYear": 2016
+    },
+    {
+      "name": "Arrival",
+      "year": 2016,
+      "winner": false,
+      "catalogId": 10000205861,
+      "catalogYear": 2016
+    },
+    {
+      "name": "Fences",
+      "year": 2016,
+      "winner": false,
+      "catalogId": 10000245764,
+      "catalogYear": 2016
+    },
+    {
+      "name": "Hacksaw Ridge",
+      "year": 2016,
+      "winner": false,
+      "catalogId": 10000196552,
+      "catalogYear": 2016
+    },
+    {
+      "name": "Hell or High Water",
+      "year": 2016,
+      "winner": false,
+      "catalogId": 10000243100,
+      "catalogYear": 2016
+    },
+    {
+      "name": "Hidden Figures",
+      "year": 2016,
+      "winner": false,
+      "catalogId": 10000236713,
+      "catalogYear": 2016
+    },
+    {
+      "name": "La La Land",
+      "year": 2016,
+      "winner": false,
+      "catalogId": 10000143617,
+      "catalogYear": 2016
+    },
+    {
+      "name": "Lion",
+      "year": 2016,
+      "winner": false,
+      "catalogId": 10000205254,
+      "catalogYear": 2016
+    },
+    {
+      "name": "Manchester by the Sea",
+      "year": 2016,
+      "winner": false,
+      "catalogId": 10000233523,
+      "catalogYear": 2016
+    }
+  ],
+  "2018": [
+    {
+      "name": "The Shape of Water",
+      "year": 2017,
+      "winner": true,
+      "catalogId": 10000244209,
+      "catalogYear": 2017
+    },
+    {
+      "name": "Call Me by Your Name",
+      "year": 2017,
+      "winner": false,
+      "catalogId": 10000244234,
+      "catalogYear": 2017
+    },
+    {
+      "name": "Darkest Hour",
+      "year": 2017,
+      "winner": false,
+      "catalogId": 10000244220,
+      "catalogYear": 2017
+    },
+    {
+      "name": "Dunkirk",
+      "year": 2017,
+      "winner": false,
+      "catalogId": 10000232797,
+      "catalogYear": 2017
+    },
+    {
+      "name": "Get Out",
+      "year": 2017,
+      "winner": false,
+      "catalogId": 10000266704,
+      "catalogYear": 2017
+    },
+    {
+      "name": "Lady Bird",
+      "year": 2017,
+      "winner": false,
+      "catalogId": 10000344989,
+      "catalogYear": 2017
+    },
+    {
+      "name": "Phantom Thread",
+      "year": 2017,
+      "winner": false,
+      "catalogId": 10000315174,
+      "catalogYear": 2017
+    },
+    {
+      "name": "The Post",
+      "year": 2017,
+      "winner": false,
+      "catalogId": 10000312151,
+      "catalogYear": 2017
+    },
+    {
+      "name": "Three Billboards outside Ebbing, Missouri",
+      "year": 2017,
+      "winner": false,
+      "catalogId": 10000244171,
+      "catalogYear": 2017
+    }
+  ],
+  "2019": [
+    {
+      "name": "Green Book",
+      "year": 2018,
+      "winner": true,
+      "catalogId": 10000404187,
+      "catalogYear": 2018
+    },
+    {
+      "name": "Black Panther",
+      "year": 2018,
+      "winner": false,
+      "catalogId": 10000000418,
+      "catalogYear": 2018
+    },
+    {
+      "name": "BlacKkKlansman",
+      "year": 2018,
+      "winner": false,
+      "catalogId": 10000359260,
+      "catalogYear": 2018
+    },
+    {
+      "name": "Bohemian Rhapsody",
+      "year": 2018,
+      "winner": false,
+      "catalogId": 10000318913,
+      "catalogYear": 2018
+    },
+    {
+      "name": "The Favourite",
+      "year": 2018,
+      "winner": false,
+      "catalogId": 10000232803,
+      "catalogYear": 2018
+    },
+    {
+      "name": "Roma",
+      "year": 2018,
+      "winner": false,
+      "catalogId": 10000288499,
+      "catalogYear": 2018
+    },
+    {
+      "name": "A Star Is Born",
+      "year": 2018,
+      "winner": false,
+      "catalogId": 10000266686,
+      "catalogYear": 2018
+    },
+    {
+      "name": "Vice",
+      "year": 2018,
+      "winner": false,
+      "catalogId": 10000366889,
+      "catalogYear": 2018
+    }
+  ],
+  "2020": [
+    {
+      "name": "Parasite",
+      "year": 2019,
+      "winner": true,
+      "catalogId": 10000414170,
+      "catalogYear": 2019
+    },
+    {
+      "name": "Ford v Ferrari",
+      "year": 2019,
+      "winner": false,
+      "catalogId": 10000420873,
+      "catalogYear": 2019
+    },
+    {
+      "name": "The Irishman",
+      "year": 2019,
+      "winner": false,
+      "catalogId": 10000244149,
+      "catalogYear": 2019
+    },
+    {
+      "name": "Jojo Rabbit",
+      "year": 2019,
+      "winner": false,
+      "catalogId": 10000419055,
+      "catalogYear": 2019
+    },
+    {
+      "name": "Joker",
+      "year": 2019,
+      "winner": false,
+      "catalogId": 10000349873,
+      "catalogYear": 2019
+    },
+    {
+      "name": "Little Women",
+      "year": 2019,
+      "winner": false,
+      "catalogId": 10000424851,
+      "catalogYear": 2019
+    },
+    {
+      "name": "Marriage Story",
+      "year": 2019,
+      "winner": false,
+      "catalogId": 10000403709,
+      "catalogYear": 2019
+    },
+    {
+      "name": "1917",
+      "year": 2019,
+      "winner": false,
+      "catalogId": 10000420155,
+      "catalogYear": 2020
+    },
+    {
+      "name": "Once upon a Time...in Hollywood",
+      "year": 2019,
+      "winner": false,
+      "catalogId": 10000327097,
+      "catalogYear": 2019
+    }
+  ],
+  "2021": [
+    {
+      "name": "Nomadland",
+      "year": 2020,
+      "winner": true,
+      "catalogId": 10000855323,
+      "catalogYear": 2020
+    },
+    {
+      "name": "The Father",
+      "year": 2020,
+      "winner": false,
+      "catalogId": 10000836126,
+      "catalogYear": 2020
+    },
+    {
+      "name": "Judas and the Black Messiah",
+      "year": 2020,
+      "winner": false,
+      "catalogId": 10000846332,
+      "catalogYear": 2021
+    },
+    {
+      "name": "Mank",
+      "year": 2020,
+      "winner": false,
+      "catalogId": 10000821789,
+      "catalogYear": 2020
+    },
+    {
+      "name": "Minari",
+      "year": 2020,
+      "winner": false,
+      "catalogId": 10000822043,
+      "catalogYear": 2021
+    },
+    {
+      "name": "Promising Young Woman",
+      "year": 2020,
+      "winner": false,
+      "catalogId": 10000486890,
+      "catalogYear": 2020
+    },
+    {
+      "name": "Sound of Metal",
+      "year": 2020,
+      "winner": false,
+      "catalogId": 10000827107,
+      "catalogYear": 2020
+    },
+    {
+      "name": "The Trial of the Chicago 7",
+      "year": 2020,
+      "winner": false,
+      "catalogId": 10000840196,
+      "catalogYear": 2020
+    }
+  ],
+  "2022": [
+    {
+      "name": "CODA",
+      "year": 2021,
+      "winner": true,
+      "catalogId": 10000983754,
+      "catalogYear": 2021
+    },
+    {
+      "name": "Belfast",
+      "year": 2021,
+      "winner": false,
+      "catalogId": 10001028552,
+      "catalogYear": 2021
+    },
+    {
+      "name": "Don't Look Up",
+      "year": 2021,
+      "winner": false,
+      "catalogId": 10000856378,
+      "catalogYear": 2021
+    },
+    {
+      "name": "Drive My Car",
+      "year": 2021,
+      "winner": false,
+      "catalogId": 10001047284,
+      "catalogYear": 2021
+    },
+    {
+      "name": "Dune",
+      "year": 2021,
+      "winner": false,
+      "catalogId": 10000305113,
+      "catalogYear": 2021
+    },
+    {
+      "name": "King Richard",
+      "year": 2021,
+      "winner": false,
+      "catalogId": 10000820276,
+      "catalogYear": 2021
+    },
+    {
+      "name": "Licorice Pizza",
+      "year": 2021,
+      "winner": false,
+      "catalogId": 10000864613,
+      "catalogYear": 2021
+    },
+    {
+      "name": "Nightmare Alley",
+      "year": 2021,
+      "winner": false,
+      "catalogId": 10000855362,
+      "catalogYear": 2021
+    },
+    {
+      "name": "The Power of the Dog",
+      "year": 2021,
+      "winner": false,
+      "catalogId": 10000674063,
+      "catalogYear": 2021
+    },
+    {
+      "name": "West Side Story",
+      "year": 2021,
+      "winner": false,
+      "catalogId": 10000453779,
+      "catalogYear": 2021
+    }
+  ],
+  "2023": [
+    {
+      "name": "Everything Everywhere All at Once",
+      "year": 2022,
+      "winner": true,
+      "catalogId": 10001137671,
+      "catalogYear": 2022
+    },
+    {
+      "name": "All Quiet on the Western Front",
+      "year": 2022,
+      "winner": false,
+      "catalogId": 10000057755,
+      "catalogYear": 2022
+    },
+    {
+      "name": "Avatar: The Way of Water",
+      "year": 2022,
+      "winner": false,
+      "catalogId": 10000001904,
+      "catalogYear": 2022
+    },
+    {
+      "name": "The Banshees of Inisherin",
+      "year": 2022,
+      "winner": false,
+      "catalogId": 10001177080,
+      "catalogYear": 2022
+    },
+    {
+      "name": "Elvis",
+      "year": 2022,
+      "winner": false,
+      "catalogId": 10000823717,
+      "catalogYear": 2022
+    },
+    {
+      "name": "The Fabelmans",
+      "year": 2022,
+      "winner": false,
+      "catalogId": 10001067559,
+      "catalogYear": 2022
+    },
+    {
+      "name": "Tár",
+      "year": 2022,
+      "winner": false,
+      "catalogId": 10001131320,
+      "catalogYear": 2022
+    },
+    {
+      "name": "Top Gun: Maverick",
+      "year": 2022,
+      "winner": false,
+      "catalogId": 10000316242,
+      "catalogYear": 2022
+    },
+    {
+      "name": "Triangle of Sadness",
+      "year": 2022,
+      "winner": false,
+      "catalogId": 10000950279,
+      "catalogYear": 2022
+    },
+    {
+      "name": "Women Talking",
+      "year": 2022,
+      "winner": false,
+      "catalogId": 10001221595,
+      "catalogYear": 2022
+    }
+  ],
+  "2024": [
+    {
+      "name": "Oppenheimer",
+      "year": 2023,
+      "winner": true,
+      "catalogId": 10001111989,
+      "catalogYear": 2023
+    },
+    {
+      "name": "American Fiction",
+      "year": 2023,
+      "winner": false,
+      "catalogId": 10001375799,
+      "catalogYear": 2023
+    },
+    {
+      "name": "Anatomy of a Fall",
+      "year": 2023,
+      "winner": false,
+      "catalogId": 10001337628,
+      "catalogYear": 2023
+    },
+    {
+      "name": "Barbie",
+      "year": 2023,
+      "winner": false,
+      "catalogId": 10000244331,
+      "catalogYear": 2023
+    },
+    {
+      "name": "The Holdovers",
+      "year": 2023,
+      "winner": false,
+      "catalogId": 10001261131,
+      "catalogYear": 2023
+    },
+    {
+      "name": "Killers of the Flower Moon",
+      "year": 2023,
+      "winner": false,
+      "catalogId": 10000327233,
+      "catalogYear": 2023
+    },
+    {
+      "name": "Maestro",
+      "year": 2023,
+      "winner": false,
+      "catalogId": 10001301925,
+      "catalogYear": 2023
+    },
+    {
+      "name": "Past Lives",
+      "year": 2023,
+      "winner": false,
+      "catalogId": 10001294945,
+      "catalogYear": 2023
+    },
+    {
+      "name": "Poor Things",
+      "year": 2023,
+      "winner": false,
+      "catalogId": 10001028203,
+      "catalogYear": 2023
+    },
+    {
+      "name": "The Zone of Interest",
+      "year": 2023,
+      "winner": false,
+      "catalogId": 10000327806,
+      "catalogYear": 2023
+    }
+  ],
+  "2025": [
+    {
+      "name": "Anora",
+      "year": 2024,
+      "winner": true,
+      "catalogId": 10001471345,
+      "catalogYear": 2024
+    },
+    {
+      "name": "The Brutalist",
+      "year": 2024,
+      "winner": false,
+      "catalogId": 10001515223,
+      "catalogYear": 2024
+    },
+    {
+      "name": "A Complete Unknown",
+      "year": 2024,
+      "winner": false,
+      "catalogId": 10001508945,
+      "catalogYear": 2024
+    },
+    {
+      "name": "Conclave",
+      "year": 2024,
+      "winner": false,
+      "catalogId": 10001457029,
+      "catalogYear": 2024
+    },
+    {
+      "name": "Dune: Part Two",
+      "year": 2024,
+      "winner": false,
+      "catalogId": 10001133934,
+      "catalogYear": 2024
+    },
+    {
+      "name": "Emilia Pérez",
+      "year": 2024,
+      "winner": false,
+      "catalogId": 10001470567,
+      "catalogYear": 2024
+    },
+    {
+      "name": "I'm Still Here",
+      "year": 2024,
+      "winner": false,
+      "catalogId": 10001515031,
+      "catalogYear": 2024
+    },
+    {
+      "name": "Nickel Boys",
+      "year": 2024,
+      "winner": false,
+      "catalogId": 10001480145,
+      "catalogYear": 2025
+    },
+    {
+      "name": "The Substance",
+      "year": 2024,
+      "winner": false,
+      "catalogId": 10001484207,
+      "catalogYear": 2024
+    },
+    {
+      "name": "Wicked",
+      "year": 2024,
+      "winner": false,
+      "catalogId": 10000244132,
+      "catalogYear": 2024
+    }
+  ],
+  "2026": [
+    {
+      "name": "One Battle after Another",
+      "year": 2025,
+      "winner": true,
+      "catalogId": 10001459877,
+      "catalogYear": 2025
+    },
+    {
+      "name": "Bugonia",
+      "year": 2025,
+      "winner": false,
+      "catalogId": 10001504418,
+      "catalogYear": 2025
+    },
+    {
+      "name": "F1",
+      "year": 2025,
+      "winner": false,
+      "catalogId": 10001358394,
+      "catalogYear": 2025
+    },
+    {
+      "name": "Frankenstein",
+      "year": 2025,
+      "winner": false,
+      "catalogId": 10001444679,
+      "catalogYear": 2025
+    },
+    {
+      "name": "Hamnet",
+      "year": 2025,
+      "winner": false,
+      "catalogId": 10001240009,
+      "catalogYear": 2025
+    },
+    {
+      "name": "Marty Supreme",
+      "year": 2025,
+      "winner": false,
+      "catalogId": 10001576989,
+      "catalogYear": 2025
+    },
+    {
+      "name": "The Secret Agent",
+      "year": 2025,
+      "winner": false,
+      "catalogId": 10001492505,
+      "catalogYear": 2025
+    },
+    {
+      "name": "Sentimental Value",
+      "year": 2025,
+      "winner": false,
+      "catalogId": 10001586260,
+      "catalogYear": 2025
+    },
+    {
+      "name": "Sinners",
+      "year": 2025,
+      "winner": false,
+      "catalogId": 10001461977,
+      "catalogYear": 2025
+    },
+    {
+      "name": "Train Dreams",
+      "year": 2025,
+      "winner": false,
+      "catalogId": 10001573558,
+      "catalogYear": 2025
+    }
+  ]
+}

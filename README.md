@@ -31,4 +31,3 @@ Node.js 22+ e pnpm. Execute `pnpm install --frozen-lockfile`, `pnpm test`, `pnpm
 
 ## Créditos
 Autoria das contribuições: Dobs by Azura. Electron, Chromium, React e demais dependências mantêm seus respectivos créditos e licenças. Dados e marcas de JustWatch, TMDB, IMDb, Rotten Tomatoes, YouTube, Wikipédia e TVmaze pertencem aos respectivos titulares e fontes. Não há afiliação presumida a esses serviços. Não foi atribuída licença aberta ao código próprio nesta preparação.
-
